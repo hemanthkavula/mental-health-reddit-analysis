@@ -1,0 +1,27 @@
+# Data Processing
+pandas==1.5.3
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning & NLP
+scikit-learn==1.2.2
+nltk==3.8.1
+gensim==4.3.1
+transformers==4.30.2
+textblob==0.17.1
+
+# Deep Learning
+torch==2.0.1
+
+# Data Collection
+praw==7.7.0
+
+# Jupyter
+jupyter==1.0.0
+ipython==8.12.0
+
+# Utilities
+python-dotenv==1.0.0
